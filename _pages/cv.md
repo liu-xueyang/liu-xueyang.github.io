@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2016 - 2018
+* B.S. in Computer Engineering, University of Michigan, 2018 - 2020
+* Ph.D in Computer Science, Georgia Institute of Technology, 2021 - NOW
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* SambaNova Systems | Hardware Engineer (2020 - 2021)
+  * Designed and optimized hardware programming for layer normalization algorithms with in-house assembly and integrated the template across software stack
+  * Implemented DDR shim RTL for new chip generation; Adapted from single-channel DDR4 to dual-channel DDR5
+  * Optimized DDR shim microarchitecture: proposed fine-grained credit management to adapt to more requesters; proposed fifo and arbitration structure to improve shim response throughput
+  * Automated performance analysis of parallelization factors in convolutional templates with python; collected throughput and resource utilization information and analyzed patterns for optimal resource efficiency
+  * Supervisor: Ram
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -42,18 +40,26 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Other experience
+======
+
+* Computer Architecture (EECS 470) at University of Michigan | Teaching Assistant (2019 - 2020)
+  * Coordinate course projects and hold office hours
+  * Give and grade homework and exam problems
+  * Supervisor: Professor Hub
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
