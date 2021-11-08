@@ -22,17 +22,16 @@ Work experience
   * Implemented DDR shim RTL for new chip generation; Adapted from single-channel DDR4 to dual-channel DDR5
   * Optimized DDR shim microarchitecture: proposed fine-grained credit management to adapt to more requesters; proposed fifo and arbitration structure to improve shim response throughput
   * Automated performance analysis of parallelization factors in convolutional templates with python; collected throughput and resource utilization information and analyzed patterns for optimal resource efficiency
-  * Supervisor: Ram
 
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
