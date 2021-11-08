@@ -13,11 +13,11 @@ Education
 ======
 * B.S. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2016 - 2018
 * B.S. in Computer Engineering, University of Michigan, 2018 - 2020
-* Ph.D in Computer Science, Georgia Institute of Technology, 2021 - NOW
+* Ph.D in Computer Science, Georgia Institute of Technology, 2021 - Now
 
 Work experience
 ======
-* SambaNova Systems | Hardware Engineer (2020 - 2021)
+* Hardware Engineer @ SambaNova Systems (2020 - 2021)
   * Designed and optimized hardware programming for layer normalization algorithms with in-house assembly and integrated the template across software stack
   * Implemented DDR shim RTL for new chip generation; Adapted from single-channel DDR4 to dual-channel DDR5
   * Optimized DDR shim microarchitecture: proposed fine-grained credit management to adapt to more requesters; proposed fifo and arbitration structure to improve shim response throughput
@@ -43,10 +43,10 @@ Publications
 Other experience
 ======
 
-* Computer Architecture (EECS 470) at University of Michigan | Teaching Assistant (2019 - 2020)
+* Teaching Assistant for EECS470 - Computer Architecture (2019 - 2020)
   * Coordinate course projects and hold office hours
   * Give and grade homework and exam problems
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Ronald Dreslinski
 
 <!-- Talks
 ======
