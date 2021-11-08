@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hey! Thanks for visiting! I'm currently a first-year Ph.D. student at Georgia Institute of Technology, focusing on Computer Architecture. I'm a member of [the HPArch lab](http://hparch.gatech.edu/index.html) and advised by Prof. [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/). 
+Hey! Thanks for visiting! I'm currently a first-year Ph.D. student at Georgia Institute of Technology, focusing on Computer Architecture. I'm a member of [HPArch](http://hparch.gatech.edu/index.html) and advised by Prof. [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/). 
 
 Before starting my Ph.D., I worked at SambaNova Systems as a hardware engineer (2020 - 2021). I got my Bachelor's degree in Computer Engineering at University of Michigan and Shanghai Jiao Tong University (SJTU) in 2020.
 
-You can find my CV [here](http://liu-xueyang.github.io/files/Xueyang-Liu-CV.pdf).
+[[CV]](http://liu-xueyang.github.io/files/Xueyang-Liu-CV.pdf).
 
 Research Interest
 ======
