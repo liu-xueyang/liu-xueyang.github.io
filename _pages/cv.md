@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* Systems Technology Research Intern (May - Aug 2022)
+  * Studied Samsung’s SmartSSD prototype product and designed a performance model to predict the acceleration performance based on device experiments
+  * Designed and developed a tool with Intel pin to divide and profile separate workload regions for offload performance prediction
+  * Collaborator: Sahand Salamat, Rekha Pitchumani
+
 * Hardware Engineer @ SambaNova Systems (2020 - 2021)
   * Designed and optimized hardware programming for layer normalization algorithms with in-house assembly and integrated the template across software stack
   * Implemented DDR shim RTL for new chip generation; Adapted from single-channel DDR4 to dual-channel DDR5
@@ -45,7 +50,7 @@ Other experience
 * Teaching Assistant for EECS470 - Computer Architecture (2019 - 2020)
   * Coordinate course projects and hold office hours
   * Give and grade homework and exam problems
-  * Supervisor: Professor Ronald Dreslinski
+  * Supervisor: Prof. Ronald Dreslinski
 
 <!-- Talks
 ======
