@@ -1,5 +1,5 @@
 ---
-title: "Accelerator integration in a tile-based SoC: lessons learned with a hardware floating point compression engine"
+title: "Accelerator integration in a tile-based SoC; lessons learned with a hardware floating point compression engine"
 collection: publications
 permalink: /publication/2023-11-ZHW-MoSAIC
 #excerpt: '.'
