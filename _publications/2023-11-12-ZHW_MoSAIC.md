@@ -1,8 +1,8 @@
 ---
 title: "Accelerator integration in a tile-based SoC: lessons learned with a hardware floating point compression engine"
 collection: publications
-permalink: /publication/2023-11-ZHW_MoSAIC
-excerpt: '.'
+permalink: /publication/2023-11-ZHW-MoSAIC
+#excerpt: '.'
 date: 2023-11-12
 venue: 'SC-W '23: Proceedings of the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3624062.3624245'
