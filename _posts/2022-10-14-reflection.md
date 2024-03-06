@@ -34,4 +34,4 @@ While struggling to find the way out, I want to write down a few items I wish to
 
 6. **Be compassionate to both self and others.** 
 
-7. **Don't rush and let things happen.** Don't worry. Good things take time. And if
+7. **Don't rush and let things happen.** Don't worry. Good things take time to fruitation. And in every moment of depression, despair, stress, anxiety, lives a door to grow and learn, if you don't run away from the pain.
