@@ -1,5 +1,5 @@
 ---
-title: 'Feeling pain and lost - A new Stoic's reflection on the past year and areas to improve'
+title: 'Feeling pain and lost - A new Stoic reflection on the past year and areas to improve'
 date: 2022-10-14
 permalink: /posts/2022/10/reflection/
 tags:
