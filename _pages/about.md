@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me 🌿"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Thanks for visiting, this is Xueyang! I'm currently a fourth-year CS PhD student at Georgia Institute of Technology, exploring the intersection of design, wellbeing, and social justice in digital systems. I'm a member of tandem lab and advised by Dr. [Neha Kumar](https://www.nehakumar.org). 
+Hi there 😜 Thanks for visiting, this is Xueyang! I'm currently a fourth-year CS PhD student at Georgia Institute of Technology, exploring the intersection of design, wellbeing, and social justice in digital systems. I'm a member of tandem lab and advised by Dr. [Neha Kumar](https://www.nehakumar.org). 
 
 Before starting my PhD, I worked at SambaNova Systems as a hardware engineer (2020 - 2021). I received Bachelor's degree in Computer Engineering from University of Michigan and Shanghai Jiao Tong University (SJTU) in 2020.
 
 [[CV]](liu-xueyang.github.io/files/Xueyang_Liu_CV_0922.pdf)
 
-Research Interest
+Research Interest 📚
 ======
 My research draws on interdisciplinary insights from psychology, philosophy, learning sciences, HCI and critical theory to investigate how technology shapes everyday human experience.
 

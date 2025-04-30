@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "LIU Xueyang 刘雪杨"
   avatar           : "profile.jpg"
-  bio              : "Fourth Year CS PhD student @ Georgia Tech"
+  bio              : "she/her; CS PhD student @ Georgia Tech"
   location         : "Atlanta, GA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=yd4L4iIAAAAJ&hl=en"
   email            : xliu791@gatech.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
