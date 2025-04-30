@@ -12,7 +12,7 @@ Hi there 😜 Thanks for visiting, this is Xueyang! I'm currently a fourth-year 
 
 Before starting my PhD, I worked at SambaNova Systems as a hardware engineer (2020 - 2021). I received Bachelor's degree in Computer Engineering from University of Michigan and Shanghai Jiao Tong University (SJTU) in 2020.
 
-[[CV]](liu-xueyang.github.io/files/Xueyang_Liu_CV_0922.pdf)
+[[CV]](liu-xueyang.github.io/files/Xueyang_Liu_CV_2025.pdf)
 
 Research Interest 📚
 ======
