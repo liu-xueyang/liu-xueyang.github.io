@@ -1,6 +1,6 @@
 ---
 title: "LeetCode Redesign"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Redesigning LeetCode to support English Learner students <br/><img src='/images/leetcode_cover.png'>"
 collection: portfolio
 ---
 
