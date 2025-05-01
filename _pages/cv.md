@@ -17,16 +17,28 @@ Education
 
 Work experience
 ======
-* Systems Technology Research Intern (May - Aug 2022)
-  * Studied Samsung’s SmartSSD prototype product and designed a performance model to predict the acceleration performance based on device experiments
-  * Designed and developed a tool with Intel pin to divide and profile separate workload regions for offload performance prediction
-  * Collaborator: Sahand Salamat, Rekha Pitchumani
+* Graduate Research Assistant @ [HPArch](https://sites.gatech.edu/hparch/) (Sep 2021 - May 2024)
+  * Researched heterogeneous systems where GPUs are directly connected to storage; built cycle-lev
+simulators for such platform by connecting macsim(GPU) and MQSim(SSD) simulators
+  * Identified SSD contention bottlenecks; evaluated GPU threadblock scheduling algorithms and
+proposed the new CA-scheduler that accounts for SSD internal property
+  * Built infrastructure to evaluate large GPU benchmarks including graph and machine learning
+  * Mentor: Hyesoon Kim
 
-* Hardware Engineer @ SambaNova Systems (2020 - 2021)
-  * Designed and optimized hardware programming for layer normalization algorithms with in-house assembly and integrated the template across software stack
-  * Implemented DDR shim RTL for new chip generation; Adapted from single-channel DDR4 to dual-channel DDR5
-  * Optimized DDR shim microarchitecture: proposed fine-grained credit management to adapt to more requesters; proposed fifo and arbitration structure to improve shim response throughput
-  * Automated performance analysis of parallelization factors in convolutional templates with python; collected throughput and resource utilization information and analyzed patterns for optimal resource efficiency
+* Computing Research Intern @ Lawrence Livermore National Laboratory (May - Aug 2023)
+  * Integrated ZHW accelerator into MoSAIC, a heterogeneous tile-based SoC platform at RTL level
+  * Implemented compression software using MoSAIC APIs; evaluated and optimized date
+movement between CPU and memory by proposing bew commands
+  * Mentor: Maya Gokhale
+
+* Systems Technology Research Intern @ Samsung (May - Aug 2022)
+  * Studied Samsung’s SmartSSD prototype product and designed a performance model to predict
+the acceleration performance based on device experiments
+  * Designed and developed a Intel pin tool to divide and profile separate workload regions for
+offload performance prediction
+  * Mentor: Sahand Salamat
+
+* Hardware Engineer @ SambaNova Systems (Jun 2020 - Jun 2021)
 
   
 <!-- Skills
@@ -47,10 +59,13 @@ Publications
 Other experience
 ======
 
-* Teaching Assistant for EECS470 - Computer Architecture (2019 - 2020)
-  * Coordinate course projects and hold office hours
-  * Give and grade homework and exam problems
-  * Supervisor: Prof. Ronald Dreslinski
+* Chair, Graduate Student Association Mental Health Committee (Sep 2023 - May 2024)
+  * Led bi-weekly discussions on mental health challenges specific to graduate students and
+brainstorm on actions
+  * Connect with directors and staff at Center for Mental Health and Resource(CMHCR) to clarify
+on-campus resources, seek support for collaborations
+  * Held mental health town hall meeting in spring 2024, bringing together CMHCR staff and the
+student body to promote on-campus mental health service and address student questions
 
 <!-- Talks
 ======
