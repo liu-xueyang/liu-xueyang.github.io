@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2016 - 2018
+* B.S. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2016 - 2020
 * B.S. in Computer Engineering, University of Michigan, 2018 - 2020
 * Ph.D in Computer Science, Georgia Institute of Technology, 2021 - Now
 

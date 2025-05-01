@@ -1,11 +1,9 @@
 ---
 title: 'Feeling pain and lost - A new Stoic reflection on the past year and areas to improve'
 date: 2022-10-14
-permalink: /posts/2022/10/reflection/
+permalink: /writing/2022/10/reflection/
 tags:
   - Personal Reflection
-  - Stoic Philosophy
-  - Ph.D. Second Year Blue
 ---
 
 I was lucky to be at this academic conference (MICRO'55 in Chicago) two weeks ago and the feeling of pain, anxiety and frustration has struck me, seemingly out of nowhere. But I understand every burst of emotion has to come from somewhere, possibly a place I've been trying to hide so hard underneath my consciouness, that I thought it's going ok but deep down it's not. I haven't written much about feelings in English, but I'd like to take this chance to reflect on what I did in my Ph.D. first year. I hope this can be a starting point of my self expression. For anyone who happen to be reading this, I hope my personal experience can help you in some way too.
