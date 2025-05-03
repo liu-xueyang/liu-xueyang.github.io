@@ -20,4 +20,4 @@ My research draws on interdisciplinary insights from philosophy, anthropology, s
 
 Previously, I worked as a computer architect with a focus on GPU and high-performance systems, which grounds my current work in a deep technical understanding of computing infrastructure. This technical background enables me to approach HCI challenges with both systems-level thinking and human-centered inquiry.
 
-My broader interests include spirituality, arts, languages, and inquiries into gender and sexuality, all of which continue to inform my perspective as I seek to design more meaningful and equitable technological futures.
+My broader interests include spirituality, the arts, and languages, all of which shape my perspective as I envision more meaningful and equitable technological futures. Woven through these influences, gender and sexuality form the underpinning framework through which I engage questions of embodiment, identity, and power.
