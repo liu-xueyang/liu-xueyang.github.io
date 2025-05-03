@@ -1,7 +1,7 @@
 ---
 title: 'Feeling pain and lost - A new Stoic reflection on the past year and areas to improve'
 date: 2022-10-14
-permalink: /writing/2022/10/reflection/
+permalink: /essays/2022/10/reflection/
 tags:
   - Personal Reflection
 ---

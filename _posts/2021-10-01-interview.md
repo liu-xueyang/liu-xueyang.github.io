@@ -1,7 +1,7 @@
 ---
 title: 'Better machine learning in drones and resource-limited environments '
 date: 2021-10-01
-permalink: /writing/2021/10/interview/
+permalink: /essays/2021/10/interview/
 tags:
   - FPGA
   - DNN
