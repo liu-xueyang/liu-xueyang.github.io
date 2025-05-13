@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LIU Xueyang"
+title                    : "liu xueyang"
 title_separator          : "-"
-name                     : &name "LIU Xueyang (刘雪杨)"
+name                     : &name "liu xueyang 刘雪杨"
 description              : &description "personal description"
 url                      : https://liu-xueyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "LIU Xueyang 刘雪杨"
+  name             : "liu xueyang 刘雪杨"
   avatar           : "headshot_2025.jpg"
   bio              : "she/her 🏳️‍🌈 CS PhD student @ Georgia Tech"
   location         : "Atlanta, GA"
