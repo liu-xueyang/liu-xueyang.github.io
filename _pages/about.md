@@ -10,6 +10,8 @@ redirect_from:
 
 Hi there, thanks for visiting my space, this is xueyang! I'm a fourth-year CS PhD student at Georgia Institute of Technology, exploring the intersection of design, wellbeing, social equity/justice, and what it means to be human through digital systems. I'm a member of tandem lab and advised by Dr. [Neha Kumar](https://www.nehakumar.org). 
 
+I'm currently located in Kyoto, Japan for a summer internship with Dr. [Yamashita Naomi](http://naomi-yamashita.net) to study how international residents in Japan use AI chatbots (e.g., ChatGPT) to navigate cultural adaptation, language barriers, and help-seeking in everyday life. [Jun 2025]
+
 Before starting my PhD, I worked at SambaNova Systems as a hardware engineer (2020 - 2021). I received Bachelor's degree in Computer Engineering from University of Michigan and Shanghai Jiao Tong University in 2020.
 
 [CV](https://liu-xueyang.github.io/files/Xueyang_Liu_CV_2025.pdf)

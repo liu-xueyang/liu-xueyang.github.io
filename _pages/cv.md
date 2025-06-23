@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* Research Intern @ Kyoto University (May - Aug 2025)
+  * Conducting qualitative studuies on how international residents in Japan use AI chatbots (e.g., ChatGPT) to navigate cultural adaptation, language barriers, and help-seeking in everyday life.
+  <!-- * Investigating the emotional and social dimensions of AI-assisted communication, with attention to cross-cultural vulnerability, language choice, and migrant sense of belonging. -->
+  * Mentor: [Naomi Yamashita](http://naomi-yamashita.net)
+
 * Graduate Research Assistant @ [HPArch](https://sites.gatech.edu/hparch/) (Sep 2021 - May 2024)
   * Researched heterogeneous systems where GPUs are directly connected to storage; built cycle-lev
 simulators for such platform by connecting macsim(GPU) and MQSim(SSD) simulators
