@@ -14,9 +14,11 @@ I'm currently located in Kyoto, Japan for a summer internship with Dr. [Naomi Ya
 
 Before starting my PhD, I worked at SambaNova Systems as a hardware engineer (2020 - 2021). I received Bachelor's degree in Computer Engineering from University of Michigan and Shanghai Jiao Tong University in 2020.
 
-哈喽，可以叫我雪杨！我本科毕业于上海交通大学密歇根学院，目前在美国佐治亚理工学院攻读计算机科学博士，主要关心如何将计算机技术应用于社会公平问题，以及利用科技改善个人的身心健康（well-being）。
+👩🏻‍💻 你好，可以叫我雪杨！我是佐治亚理工学院计算机科学博士生，研究人机交互（HCI）。我的研究融合批判理论（如女性主义、酷儿理论）、人类学与社会心理学，用跨学科的视角探索科技如何促进社会公平，以及改善人们的心理健康与日常生活体验。
 
-[2025年6月]目前我居住在日本京都，师从[山下直美](http://naomi-yamashita.net)和[Neha Kumar](https://www.nehakumar.org)老师，正在开展有关在日外国人如何使用AI适应日本生活的研究。
+[2025年6月] 目前我在日本京都进行田野调查，研究隶属于[山下直美](http://naomi-yamashita.net)实验室和[Neha Kumar](https://www.nehakumar.org)老师的合作项目，正在开展有关在日外国人如何使用AI适应日本生活的研究。
+
+我本科毕业于上海交大，曾是一名硬件工程师，现在更爱从人本视角思考技术。私下热衷灵性话题、艺术和做菜，相信科技与人文的碰撞能创造更好的未来✨
 
 [CV](https://liu-xueyang.github.io/files/Xueyang_Liu_CV_2025.pdf)
 
